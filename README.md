@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Rajababu...
-- 👀 I’m interested in coding ...❤️
-- 🌱 I’m currently learning ...meachine learning
-- 💞️ I’m looking to collaborate  ON EVERYBODY😘
-- 📫 How to reach me... ON MESSSEGE(❁´◡`❁)
-- 😄 Pronouns:...RAJYO💕
-- ⚡ Fun fact:...A crocodile cannot stick its tongue out.🤣
+👋 Hi, I'm Raja Babu
+🎓 MCA Student | 💻 Full Stack Developer in Progress
+🧠 Exploring Machine Learning, Web Development & AI
+🔭 Currently working on: Sentiment Analysis & Fake News Detection
+🌱 Learning: Node.js, MongoDB, React, Python, and Data Science
+📫 How to reach me: [Your Email or Social Link]
 
 <!---
 Rajababu7091/Rajababu7091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
